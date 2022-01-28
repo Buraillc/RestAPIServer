@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "restapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buraillc/RestAPIServer.git"
+  },
+  "keywords": [
+    "rest",
+    "API"
+  ],
+  "author": "Burai L.L.C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buraillc/RestAPIServer/issues"
+  },
+  "homepage": "https://github.com/Buraillc/RestAPIServer#readme",
+  "description": ""
+}
